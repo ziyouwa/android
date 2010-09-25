@@ -147,7 +147,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
-  <project path="kernel-msm" name="carz2/cm-kernel" remote="github" revision="android-msm-2.6.34-6355" />
+  <project path="kernel-msm" name="Feeyo/cm-kernel-32A-Magic" remote="github" revision="android-msm-2.6.34-6355" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 
