@@ -132,7 +132,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
-  <project path="kernel-msm" name="carz2/Sapphire-2.6.29-sense" remote="github" revision="htc-2.6.29-sense" />
+   <project path="kernel-msm" name="carz2/Sapphire-2.6.29-sense" remote="github" revision="htc-2.6.29-sense" />
 
   <project path="ndk" name="platform/ndk" revision="master" />
 
