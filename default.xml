@@ -23,7 +23,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" />
   <project path="device/sample" name="device/sample" />
-   <project path="device/htc/common" name="device/htc/common" />
+  <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" remote="github" />
   
   <project path="external/alsa-lib" name="platform/external/alsa-lib" revision="master" />
@@ -100,7 +100,7 @@
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/stlport" name="platform/external/stlport" revision="master" />
-  <project path="external/strace" name="platform/external/strace" />
+  <project path="external/strace" name="CyanogenMod/android_external_strace" remote="github" />
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
@@ -153,7 +153,6 @@
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="github" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" />
- <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery3D" name="CyanogenMod/android_packages_apps_Gallery3D" remote="github" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/IM" name="platform/packages/apps/IM" />
