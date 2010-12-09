@@ -198,4 +198,5 @@
 
   <project path="vendor/ziyouwa" name="ziyouwa/android_vendor_ziyouwa" remote="github"  revision="froyo"/>
   <project path="android" name="CyanogenMod/android" remote="github" />
+
 </manifest>
