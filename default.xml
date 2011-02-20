@@ -25,7 +25,7 @@
   <project path="development" name="CyanogenMod/android_development" remote="github" />
 
   <project path="device/common" name="device/common" />
-  <project path="device/htc/dream_sapphire" name="wesgarner/android_device_htc_dream_sapphire" remote="github" />
+  <project path="device/htc/dream_sapphire" name="ziyouwa/android_device_htc_sapphire_NR" remote="github" />
   <project path="device/sample" name="device/sample" />
    <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
    <project path="external/apache-http" name="platform/external/apache-http" />
