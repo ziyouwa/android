@@ -64,6 +64,7 @@
   <project path="external/grub" name="platform/external/grub" />
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
+  <project path="external/hostapd" name="CyanogenMod/android_external_hostapd" remote="github" />
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
@@ -141,7 +142,7 @@
   <project path="packages/apps/AccountsAndSyncSettings" name="platform/packages/apps/AccountsAndSyncSettings" />
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/AndroidTerm" name="CyanogenMod/android_packages_apps_AndroidTerm" remote="github" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
+  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="github" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="github" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" remote="github" />
@@ -160,7 +161,6 @@
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
-  <project path="packages/apps/Music3" name="CyanogenMod/android_packages_apps_Music3" remote="github" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Pacman" name="CyanogenMod/android_packages_apps_Pacman" remote="github" />
