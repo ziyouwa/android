@@ -139,7 +139,7 @@
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" />
   <project path="libcore" name="CyanogenMod/android_libcore" remote="github" />
-  <project path="kernel-msm" name="carz2/cm-kernel" remote="github" revision="android-msm-2.6.35-froyo-stable-6355" />
+  <project path="kernel-msm" name="carz2/cm-kernel" remote="github" revision="android-msm-2.6.34-6355-Gingerbread-Ramhack" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/AccountsAndSyncSettings" name="CyanogenMod/android_packages_apps_AccountsAndSyncSettings" remote="github" />
   <project path="packages/apps/ADWLauncher" name="CyanogenMod/android_packages_apps_ADWLauncher" remote="github" />
