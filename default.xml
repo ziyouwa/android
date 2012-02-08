@@ -26,6 +26,7 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
+  <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
